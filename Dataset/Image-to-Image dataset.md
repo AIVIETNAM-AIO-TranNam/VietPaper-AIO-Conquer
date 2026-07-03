@@ -1,0 +1,1 @@
+Implement the notebooks in colab. The datasets used there include: **CIFAR-10**, **Oxford5k/Paris6k**. The datasets are automatically downloaded and used in the notebooks so no need to upload them manually.
